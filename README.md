@@ -123,5 +123,4 @@ npx serve -s dist -l $PORT
 
 ## 👨‍💻 Author
 
-Abhishek Kushwaha  
-GitHub: https://github.com/abhishekkushwaha108
+Khileshwari Deshmukh
